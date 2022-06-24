@@ -1,0 +1,6 @@
+{
+  "username": "username",
+  "password": "password",
+  "fromAddress": "username@gmail.com",
+  "toAddress": "email you wish to have messages sent to"
+}
